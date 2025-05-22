@@ -1,0 +1,39 @@
+.main{
+  /* background-color: yellow; */
+  color: white;
+  font-size: 2vw;
+  /* font-weight: 500; */
+  width: 60%;
+  /* max-width: ; */
+  margin: 0 auto;
+  border-radius: 10px;
+  color: orangered;
+  background-color: rgba(128, 128, 128, 0.568);
+  padding: 10px;
+  /* display: flex; */
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.second{
+  display: flex;
+  overflow: hidden;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.second input{
+  outline: none;
+  width: 100%;
+  padding: 10px 20px;
+}
+
+.thirdInnr{
+  cursor: pointer;
+}
+
+.third{
+  display: flex;
+  justify-content:space-around;
+  padding: 10px;
+}
